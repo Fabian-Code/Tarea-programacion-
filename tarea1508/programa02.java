@@ -10,7 +10,7 @@ import java.util.Arrays;
  *
  * @author Fabian
  */
-public class programa02 {
+public class Programa02 {
 
     /**
      * @param args the command line arguments
