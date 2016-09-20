@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alumno()
+comment1.params=name\ lastName\ nRut\ matricula
+comment1.target=Alumno(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=newName
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getApellido()
+comment5.params=newApellido
+comment5.target=void\ setApellido(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getRut()
+comment7.params=newRut
+comment7.target=void\ setRut(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getNumMatricula()
+comment9.params=matricula
+comment9.target=void\ setNumMatricula(java.lang.String)
+numComments=11
